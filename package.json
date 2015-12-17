@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/vovanr/greet/issues"
   },
-  "homepage": "https://github.com/vovanr/greet#readme"
+  "homepage": "https://github.com/vovanr/greet#readme",
+  "xo": {
+    "esnext": true
+  }
 }
