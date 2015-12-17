@@ -36,7 +36,7 @@ git push -u origin master
 ```
 
 [travis-url]: https://travis-ci.org/VovanR/greet
-[travis-image]: http://img.shields.io/travis/VovanR/greet.svg
+[travis-image]: http://img.shields.io/travis/VovanR/greet.svg?style=flat-square
 
 [depstat-url]: https://david-dm.org/VovanR/greet
 [depstat-image]: https://david-dm.org/VovanR/greet.svg?style=flat-square
